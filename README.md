@@ -15,3 +15,4 @@ Leetcode doesn't store the articles in the user profile, here are a few posts I 
 11. [Average Salary Excluding the Minimum and Maximum Salary](<https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/discuss/709290/C%2B%2B-or-O(n)-Time-O(1)-Space>)
 12. [Sum Root to Leaf numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/discuss/706028/c-two-solutions)
 13. [Surrounded Regions - JUNE CL Week 3 Day 3](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3363/discuss/691707/C++-EASY-DFS-with-comments-and-explanation)
+14. [Plus One - JULY CL Week 1 Day 6](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3382)
