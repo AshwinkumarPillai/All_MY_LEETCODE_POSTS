@@ -16,3 +16,4 @@ Leetcode doesn't store the articles in the user profile, here are a few posts I 
 12. [Sum Root to Leaf numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/discuss/706028/c-two-solutions)
 13. [Surrounded Regions - JUNE CL Week 3 Day 3](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3363/discuss/691707/C++-EASY-DFS-with-comments-and-explanation)
 14. [Plus One - JULY CL Week 1 Day 6](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3382)
+15. [7 Island Perimeter](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3383/discuss/723839/C++-or-Simple-solution-with-explanation)
