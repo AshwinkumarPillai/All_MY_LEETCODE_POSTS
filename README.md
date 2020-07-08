@@ -2,7 +2,7 @@
 
 Leetcode doesn't store the articles in the user profile, here are a few posts I could fetch
 
-1. [3 Sum - Three Pointer Approach](https://leetcode.com/problems/3sum/discuss/687523/three-pointer-c-on2-time-with-comments/580232)
+1. [3 Sum - Three Pointer Approach - JULY Week 2 Day 1](https://leetcode.com/problems/3sum/discuss/725326/C%2B%2B-or-Three-Pointer-O(n2)-Time-With-comments-and-explantion)
 2. [H-Index II - JUNE CL Week 3 Day 4](https://leetcode.com/problems/h-index-ii/discuss/693427/c-both-ologn-and-on-solution-with-explanation/584463)
 3. [Permutaion Sequence - JUNE CL Week 3 Day 6](https://leetcode.com/problems/permutation-sequence/discuss/696595/c-very-easy-and-detailed-explanation-idea-code/587162)
 4. [Dungeon Game - DP JUNE CL Week 3 Day 7](https://leetcode.com/problems/dungeon-game/discuss/698376/C%2B%2B-or-Beginner-friendly-dp-%2B-Explanation-and-idea)
