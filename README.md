@@ -20,3 +20,4 @@ Leetcode doesn't store the articles in the user profile, here are a few posts I 
 16. [Maximum Width of a Binary Tree - JULY Week 2 Day 2](https://leetcode.com/problems/maximum-width-of-binary-tree/discuss/726785/C%2B%2B-or-Level-Order-Traversal-with-detailed-explanation)
 17. [Flatten a Multilevel Doubly Linked List - JULY Week 2 Day 3](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/discuss/728353/C%2B%2B-or-Two-Solutions)
 18. [Subsets - JULY Week 2 Day 4](https://leetcode.com/problems/subsets/discuss/729973/C%2B%2B-or-2-Solutions-with-explanation)
+19. [Reformat Date](https://leetcode.com/problems/reformat-date/discuss/730734/Python-solution)
