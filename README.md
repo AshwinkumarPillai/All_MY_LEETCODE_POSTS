@@ -24,3 +24,4 @@ Leetcode doesn't store the articles in the user profile, here are a few posts I 
 20. [Number of Good pairs - Weekly 197 Q1](https://leetcode.com/problems/number-of-good-pairs/discuss/731674/C%2B%2B-or-Simple-Solution)
 21. [Number of Substrings With Only 1s - Weekly 197 Q2](https://leetcode.com/problems/number-of-substrings-with-only-1s/discuss/731721/C%2B%2B-or-O(n))
 22. [Reverse Bits - JULY Week 2 Day 5](https://leetcode.com/problems/reverse-bits/discuss/732071/C%2B%2B-or-Two-Solutions)
+23. [Same Tree - JULY Week 2 Day 6](https://leetcode.com/problems/same-tree/discuss/733770/C%2B%2B-or-Easy-to-understand-with-explanation)
