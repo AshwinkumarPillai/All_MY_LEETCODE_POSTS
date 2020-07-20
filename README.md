@@ -26,3 +26,6 @@ Leetcode doesn't store the articles in the user profile, here are a few posts I 
 22. [Reverse Bits - JULY Week 2 Day 5](https://leetcode.com/problems/reverse-bits/discuss/732071/C%2B%2B-or-Two-Solutions)
 23. [Same Tree - JULY Week 2 Day 6](https://leetcode.com/problems/same-tree/discuss/733770/C%2B%2B-or-Easy-to-understand-with-explanation)
 24. [Angle Between Hands of a Clock - JULY Week 2 Day 7](https://leetcode.com/problems/angle-between-hands-of-a-clock/discuss/735414/C%2B%2B-or-Easy-with-explanation)
+25. [Water Bottles - Weekly 198 Q1](https://leetcode.com/problems/water-bottles/discuss/743375/C%2B%2B-Solution)
+26. [Add Binary - JULY Week 3 Day 5](https://leetcode.com/problems/add-binary/discuss/743712/C%2B%2B-Solution)
+27. [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/discuss/745393/C%2B%2B-or-Iterative-Solution)
