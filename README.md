@@ -29,3 +29,4 @@ Leetcode doesn't store the articles in the user profile, here are a few posts I 
 25. [Water Bottles - Weekly 198 Q1](https://leetcode.com/problems/water-bottles/discuss/743375/C%2B%2B-Solution)
 26. [Add Binary - JULY Week 3 Day 5](https://leetcode.com/problems/add-binary/discuss/743712/C%2B%2B-Solution)
 27. [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/discuss/745393/C%2B%2B-or-Iterative-Solution)
+28. [Word Search](https://leetcode.com/problems/word-search/discuss/747095/C%2B%2B-or-DFS-with-explanation)
