@@ -31,4 +31,4 @@ Leetcode doesn't store the articles in the user profile, here are a few posts I 
 27. [Remove Linked List Elements - JULY Week 3 Day 6](https://leetcode.com/problems/remove-linked-list-elements/discuss/745393/C%2B%2B-or-Iterative-Solution)
 28. [Word Search - JULY Week 3 Day 7](https://leetcode.com/problems/word-search/discuss/747095/C%2B%2B-or-DFS-with-explanation)
 29. [Single Number III - JULY Week 4 Day 2](https://leetcode.com/problems/single-number-iii/discuss/750604/C%2B%2B-or-Two-Solutions-with-explanation)
-30. [All Path From Source To Target - JULY Week 4 Day 3](https://leetcode.com/problems/all-paths-from-source-to-target/discuss/752484/C%2B%2B-Solution)
+30. [Bulb Switch IV - Contest 191 Q-2](<https://leetcode.com/problems/bulb-switcher-iv/discuss/755860/C%2B%2B-or-O(n)-Simple-solution>)
