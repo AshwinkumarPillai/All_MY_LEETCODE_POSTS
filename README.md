@@ -34,3 +34,4 @@ Leetcode doesn't store the articles in the user profile, here are a few posts I 
 30. [Bulb Switch IV - Contest 191 Q-2](<https://leetcode.com/problems/bulb-switcher-iv/discuss/755860/C%2B%2B-or-O(n)-Simple-solution>)
 31. [Climbing Stairs - JULY Week 5 Day 3](https://leetcode.com/problems/climbing-stairs/discuss/764763/C%2B%2B-or-Iterative-and-Recursive-with-memoization)
 32. [Swapping Nodes in a Linked List - Monthly: 14 March 2021](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/589/week-2-march-8th-march-14th/3671/discuss/1109559/CPP-O(1)-Space-or-O(n)-time-or-Single-Pass-Solution-Easy-to-understand)
+33. [2240 - Number of Ways to Buy Pens and Pencils](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/discuss/1953901/Super-Simple-CPP)
